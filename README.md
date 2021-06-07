@@ -6,10 +6,6 @@ Projeto desenvolvido na trybe com o objetivo de escrever testes para uma aplica�
 
 * Simular eventos com a React-Testing-Library em testes automatizados.
 
-* Testar fluxos lógicos assíncronos com a React-Testing-Library.
-
-* Escrever testes que permitam a refatoração da estrutura dos componentes da aplicação sem necessidade de serem alterados.
-
 * Testar inputs.
 
 * Interpretar resultados de testes de mutação do stryker.
